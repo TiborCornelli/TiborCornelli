@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TiborCornelli
-- 👀 I’m interested in Artificial Neural Networks, Web Scraping, Data Analysis
+- 👀 I’m interested in Artificial Neural Networks, Web Scraping, Data Analysis and Programming
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: tibor.cornelli@gmail.com
